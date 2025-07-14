@@ -11,7 +11,7 @@ Visit us at [fanlist.live](https://fanlist.live)
 ## 🚀 Features
 
 - Modern and responsive user interface
-- Secure authentication system
+- Secure authentication systemdfdgfgd
 - Content management and planning
 - Payment service integration (Stripe)
 - Multi-language support
